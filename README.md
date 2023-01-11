@@ -1,1 +1,1 @@
-A simple portfolio design using bootstrap
+A simple portfolio design using Bootstrap
